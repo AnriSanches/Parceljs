@@ -1,0 +1,21 @@
+{
+  "name": "parceljs",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 10 versions, not dead",
+  "version": "1.0.0",
+  "description": "try parcel",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve -p 9998",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "joi": "^17.8.3"
+  }
+}
