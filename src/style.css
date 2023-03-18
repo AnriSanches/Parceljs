@@ -2,3 +2,18 @@ h1 {
     color: hotpink;
     font-family: cursive;
   }
+  
+/* .user-label{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}  */
+
+.form_input{
+  margin: 5 10 15 20;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
