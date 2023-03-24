@@ -24,7 +24,7 @@
 107C:\Users\user\Documents\GitHub\Parceljs\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133231719365954980 0
 73C:\Users\user\Documents\GitHub\Parceljs\node_modules\posthtml-render\dist133231719369155566 1
 82C:\Users\user\Documents\GitHub\Parceljs\node_modules\source-map-support\LICENSE.md133231719370610581 0
-44C:\Users\user\Documents\GitHub\Parceljs\dist133236461577232347 1
+44C:\Users\user\Documents\GitHub\Parceljs\dist133241606623657370 1
 78C:\Users\user\Documents\GitHub\Parceljs\node_modules\lines-and-columns\LICENSE133231719335114759 0
 94C:\Users\user\Documents\GitHub\Parceljs\node_modules\lmdb\node_modules\node-addon-api\index.js133231719394955280 0
 87C:\Users\user\Documents\GitHub\Parceljs\node_modules\type-fest\ts41\delimiter-case.d.ts133231719386427157 0
@@ -46,7 +46,7 @@
 80C:\Users\user\Documents\GitHub\Parceljs\node_modules\yaml\browser\types\pairs.js133231719396402247 0
 89C:\Users\user\Documents\GitHub\Parceljs\node_modules\@jridgewell\gen-mapping\package.json133231719348890216 0
 78C:\Users\user\Documents\GitHub\Parceljs\node_modules\csso\lib\clean\Comment.js133231719395331008 0
-56C:\Users\user\Documents\GitHub\Parceljs\.prettierrc.json133231717147543363 0
+56C:\Users\user\Documents\GitHub\Parceljs\.prettierrc.json133239578682030573 0
 84C:\Users\user\Documents\GitHub\Parceljs\node_modules\caniuse-lite\data\regions\NG.js133231719539059614 0
 83C:\Users\user\Documents\GitHub\Parceljs\node_modules\svgo\plugins\preset-default.js133231719419633726 0
 64C:\Users\user\Documents\GitHub\Parceljs\node_modules\cosmiconfig133231719411144638 1
@@ -80,13 +80,13 @@
 89C:\Users\user\Documents\GitHub\Parceljs\node_modules\@swc\helpers\lib\_to_property_key.js133231719440832148 0
 84C:\Users\user\Documents\GitHub\Parceljs\node_modules\caniuse-lite\data\regions\RW.js133231719547850411 0
 82C:\Users\user\Documents\GitHub\Parceljs\node_modules\@swc\helpers\lib\_decorate.js133231719418643894 0
-50C:\Users\user\Documents\GitHub\Parceljs\src\app.js133236461562673192 0
+50C:\Users\user\Documents\GitHub\Parceljs\src\app.js133241607229227328 0
 72C:\Users\user\Documents\GitHub\Parceljs\node_modules\type-fest\base.d.ts133231719370141835 0
 81C:\Users\user\Documents\GitHub\Parceljs\node_modules\node-releases\data\processed133231719342868959 1
 70C:\Users\user\Documents\GitHub\Parceljs\node_modules\msgpackr\index.js133231719386137060 0
 86C:\Users\user\Documents\GitHub\Parceljs\node_modules\type-fest\source\stringified.d.ts133231719416214573 0
 83C:\Users\user\Documents\GitHub\Parceljs\node_modules\@babel\code-frame\lib\index.js133231719348040217 0
-54C:\Users\user\Documents\GitHub\Parceljs\src\index.html133236437777160366 0
+54C:\Users\user\Documents\GitHub\Parceljs\src\index.html133239602230227572 0
 82C:\Users\user\Documents\GitHub\Parceljs\node_modules\type-fest\source\entries.d.ts133231719387954134 0
 84C:\Users\user\Documents\GitHub\Parceljs\node_modules\caniuse-lite\data\regions\IR.js133231719520574749 0
 88C:\Users\user\Documents\GitHub\Parceljs\node_modules\caniuse-lite\data\features\touch.js133231719564354217 0
@@ -94,7 +94,7 @@
 81C:\Users\user\Documents\GitHub\Parceljs\node_modules\csso\lib\clean\WhiteSpace.js133231719428603013 0
 64C:\Users\user\Documents\GitHub\Parceljs\node_modules\htmlparser2133231719388184562 1
 75C:\Users\user\Documents\GitHub\Parceljs\node_modules\domelementtype\lib\esm133231719378308486 1
-53C:\Users\user\Documents\GitHub\Parceljs\src\style.css133236244567918558 0
+53C:\Users\user\Documents\GitHub\Parceljs\src\style.css133237960284127152 0
 64C:\Users\user\Documents\GitHub\Parceljs\node_modules\xxhash-wasm133231719382314203 1
 109C:\Users\user\Documents\GitHub\Parceljs\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133231719357132227 0
 78C:\Users\user\Documents\GitHub\Parceljs\node_modules\@parcel\types\build-ts.js133231719341859157 0
@@ -1504,7 +1504,7 @@
 63C:\Users\user\Documents\GitHub\Parceljs\node_modules\acorn\dist133231719394047876 1
 104C:\Users\user\Documents\GitHub\Parceljs\node_modules\@parcel\transformer-js\parcel-swc.darwin-arm64.node133231719489792058 0
 75C:\Users\user\Documents\GitHub\Parceljs\node_modules\picomatch\lib\parse.js133231719355812144 0
-66C:\Users\user\Documents\GitHub\Parceljs\dist\index.0641b553.js.map133236461577162472 0
+66C:\Users\user\Documents\GitHub\Parceljs\dist\index.0641b553.js.map133241606623557531 0
 95C:\Users\user\Documents\GitHub\Parceljs\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133231719376195028 0
 98C:\Users\user\Documents\GitHub\Parceljs\node_modules\caniuse-lite\data\features\matchesselector.js133231719527480387 0
 75C:\Users\user\Documents\GitHub\Parceljs\node_modules\picomatch\lib\utils.js133231719373959638 0
@@ -3360,7 +3360,7 @@
 73C:\Users\user\Documents\GitHub\Parceljs\node_modules\callsites\index.d.ts133231719340522632 0
 82C:\Users\user\Documents\GitHub\Parceljs\node_modules\@parcel\transformer-babel\src133231719398740376 1
 84C:\Users\user\Documents\GitHub\Parceljs\node_modules\@parcel\optimizer-image\LICENSE133231719336111481 0
-63C:\Users\user\Documents\GitHub\Parceljs\dist\index.2cdaf7bc.css133236461576982323 0
+63C:\Users\user\Documents\GitHub\Parceljs\dist\index.2cdaf7bc.css133241606621860559 0
 71C:\Users\user\Documents\GitHub\Parceljs\node_modules\callsites\index.js133231719345966276 0
 108C:\Users\user\Documents\GitHub\Parceljs\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js133231719342779239 0
 75C:\Users\user\Documents\GitHub\Parceljs\node_modules\callsites\package.json133231719335175228 0
@@ -4364,6 +4364,6 @@
 68C:\Users\user\Documents\GitHub\Parceljs\node_modules\.bin\semver.cmd133231719596615865 0
 68C:\Users\user\Documents\GitHub\Parceljs\node_modules\.bin\semver.ps1133231719596615865 0
 68C:\Users\user\Documents\GitHub\Parceljs\node_modules\.bin\terser.ps1133231719596615865 0
-62C:\Users\user\Documents\GitHub\Parceljs\dist\index.0641b553.js133236461576932292 0
-67C:\Users\user\Documents\GitHub\Parceljs\dist\index.2cdaf7bc.css.map133236461577172285 0
-55C:\Users\user\Documents\GitHub\Parceljs\dist\index.html133236461576982323 0
+62C:\Users\user\Documents\GitHub\Parceljs\dist\index.0641b553.js133241606622590200 0
+67C:\Users\user\Documents\GitHub\Parceljs\dist\index.2cdaf7bc.css.map133241606622400324 0
+55C:\Users\user\Documents\GitHub\Parceljs\dist\index.html133241606622520272 0
